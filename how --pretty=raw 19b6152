@@ -1,0 +1,22 @@
+* [33m19b6152[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m implement ai feat
+* [33mc815dd0[m Modify .gitignore file
+* [33mfe53c4e[m style: Slido-style UI — branded cards, upvote pills, accent theme
+* [33m163b824[m docs: drop stale in-memory fallback note from .env.local.example
+* [33m5c68e1c[m chore: consolidated schema + seed for the rebuilt app
+* [33m969ae31[m feat(feature-5): full-text search with debounce
+* [33m66a960a[m feat(feature-4): load more (offset pagination)
+* [33md5e5ae2[m feat(feature-3): upvote with votes-as-rows + the race fix
+* [33ma0c7cdd[m feat(feature-2): submit a question
+* [33m1105186[m feat(feature-1): show questions from the database
+* [33m2063fad[m feat(feature-0): in-memory questions (intentionally vanishes)
+* [33mf09106e[m chore: reset to clean base for feature-by-feature rebuild
+* [33m3896d8f[m feat: delete questions
+* [33me976e3c[m chore: add reusable race-demo script
+* [33m21acba0[m refactor: naive read-then-write voting (to demonstrate the race)
+* [33mfd3c347[m feat: voting via a votes column on questions (naive version)
+* [33m953e6ba[m feat: wire Supabase with in-memory fallback (Phase 3)
+* [33m83bf27e[m feat: persist questions via in-memory server API route (Phase 0)
+* [33m8e7ea19[m style: Slido look and feel (lean)
+* [33me4ca6c3[m feat: workshop-themed seed questions
+* [33m273ed41[m feat: day-4 starting-state Q&A scaffold
+* [33mda485af[m Initial commit from Create Next App
